@@ -1,8 +1,8 @@
 # Data Analysis 
 
 ### Education 
-Lawrence Central Highschool, Diploma 
-Merit America, Google Data Analytics Professinal Certificate
+- Lawrence Central Highschool, Diploma 
+- Merit America, Google Data Analytics Professinal Certificate
 
 ### Work Experiences
 General Manager @ Subway 

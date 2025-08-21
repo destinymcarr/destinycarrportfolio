@@ -20,5 +20,5 @@ Assitant Manager @ Build A Bear
 ###### Linkedin 
 https://www.linkedin.com/in/destiny-carr-39777137b/
 
-####### Email
+###### Email
 Carrdestiny433@gmail.com

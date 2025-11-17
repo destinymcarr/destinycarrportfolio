@@ -17,7 +17,7 @@ Assitant Manager @ Build A Bear
 - Capstone Project "Coming Soon"
 - <a href="https://1drv.ms/x/c/6ba4f453fed37db9/ETigWB-X6KtPrCOlaFMoGosBcTIminewk5XicTcZYcfl6g?e=ZMajoG>Excel Project</a>
 ###### Linkedin 
-https://www.linkedin.com/in/destiny-carr-39777137b/
+<a href="https://www.linkedin.com/in/destiny-carr-39777137b/>Linkedin</a>
 
 ###### Email
-Carrdestiny433@gmail.com
+<a href="Carrdestiny433@gmail.com>Email</a>

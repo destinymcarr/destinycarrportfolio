@@ -13,7 +13,7 @@ Assitant Manager @ Build A Bear
 - Used KPIs and daily metrics to lead team to make weekly, monthly, quarly, and yearly goals. Also addressed problem solving with customers and employees.
 
 ###### Projects
-- SQL Project "Coming Soon"
+- SQL Project https://console.cloud.google.com/bigquery?ws=!1m4!1m3!3m2!1smerit-america-data-project-31!2sExploration_Project
 - Capstone Project "Coming Soon"
 - <a href="https://1drv.ms/x/c/6ba4f453fed37db9/ETigWB-X6KtPrCOlaFMoGosBcTIminewk5XicTcZYcfl6g?e=ZMajoG>Excel Project</a>
 ###### Linkedin 
